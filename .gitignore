@@ -1,0 +1,20 @@
+# Entornos Virtuales
+venv/
+env/
+
+# Archivos de configuración con secretos
+config.yaml
+.env
+
+# Archivos cacheados de Python
+__pycache__/
+*.pyc
+
+# Logs y bases de datos locales de Airflow
+logs/
+airflow.db
+airflow.cfg
+
+# Archivos de datos pesados o PDFs
+*.pdf
+# (Opcional: si querés subir 1 pdf de prueba, podés borrar esta línea)

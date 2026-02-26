@@ -1,0 +1,18 @@
+# Motor RAG y LangGraph
+langgraph
+langchain
+langchain-openai
+langchain-pinecone
+pinecone-client
+
+# Servidor Backend (FastAPI)
+fastapi
+uvicorn
+
+# Herramientas extra 
+ddgs
+graphviz
+pyyaml
+
+
+

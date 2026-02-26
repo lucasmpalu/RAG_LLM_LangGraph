@@ -1,0 +1,2 @@
+# Desde carpeta 1_pipeline_offline
+docker run -p 8080:8080 --env-file ${PWD}/dags/.env -v ${PWD}/dags:/opt/airflow/dags airflow-local airflow standalone

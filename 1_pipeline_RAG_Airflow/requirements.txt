@@ -1,0 +1,13 @@
+# apache-airflow==2.8.1 no hace falta porque si usamos la imagen oficial de Airflow en Docker, ya viene con esa versión. Si quieres usar una versión diferente, puedes especificarla aquí.
+pinecone>=3.0.0
+pyyaml>=6.0
+numpy>=1.26
+langchain>=0.1.0
+langchain-community>=0.0.30
+langchain-openai>=0.0.5
+langchain-text-splitters>=0.0.1
+tiktoken>=0.5.0
+pymupdf>=1.23.0
+openai>=1.0.0
+certifi>=2024.2.2
+langchain-pinecone>=0.1.0
